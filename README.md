@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arjun Verma</h1>
 <h3 align="center">A Friend/Brother always ready to share or gain knowledge</h3>
 
-<img align = "right" alt = "Coding" width = "200" src = "https://media4.giphy.com/media/heIX5HfWgEYlW/200w.webp?cid=ecf05e47fw7b5f1343f1zouzbp03wpak46tnxr747tqr3tgk&rid=200w.webp&ct=g">
+<img align = "right" alt = "Coding" width = "200" src = "https://giphy.com/gifs/computer-typing-nickelodeon-IpeYSEZshTefe/fullscreen">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjun0200&label=Profile%20views&color=0e75b6&style=flat" alt="arjun0200" /> </p>
 
