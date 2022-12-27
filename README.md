@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arjun Verma</h1>
 <h3 align="center">A Friend/Brother always ready to share or gain knowledge</h3>
 
-<img align = "right" alt = "Coding" width = "200" src = "https://camo.githubusercontent.com/61803fb67d1af1461d6c7511005da1199833b4e8d887019afe9f124e1102e705/68747470733a2f2f63646e2e746f6d6f6e6472652e636f6d2f746869732d69732d66696e652e6a7067">
+<img align = "right" alt = "Coding" width = "400" src = "https://camo.githubusercontent.com/61803fb67d1af1461d6c7511005da1199833b4e8d887019afe9f124e1102e705/68747470733a2f2f63646e2e746f6d6f6e6472652e636f6d2f746869732d69732d66696e652e6a7067">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjun0200&label=Profile%20views&color=0e75b6&style=flat" alt="arjun0200" /> </p>
 
